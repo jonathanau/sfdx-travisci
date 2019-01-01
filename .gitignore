@@ -11,4 +11,4 @@ selenium-client-jars/
 test/artifacts
 
 #Ignore Vim swp files
-.swp
+*.swp
